@@ -1,0 +1,155 @@
+#framecontentTop {
+	LEFT: 0px; WIDTH: 100%; POSITION: absolute; TOP: 0px; HEIGHT: 150px; BACKGROUND-COLOR: #3c71d9; TEXT-ALIGN: center
+}
+#framecontentLeft {
+	LEFT: 0px; WIDTH: 180px; POSITION: absolute; TOP: 150px; HEIGHT: 100%; BACKGROUND-COLOR: transparent
+}
+#framecontentRight {
+	LEFT: 0px; WIDTH: 180px; POSITION: absolute; TOP: 150px; HEIGHT: 100%; BACKGROUND-COLOR: transparent
+}
+#framecontentRight {
+	RIGHT: 0px; LEFT: auto; WIDTH: 180px; BACKGROUND-COLOR: transparent
+}
+#maincontent {
+	RIGHT: 180px; BACKGROUND: none transparent scroll repeat 0% 0%; LEFT: 180px; POSITION: absolute; TOP: 150px
+}
+.innertube {
+	MARGIN: 5px
+}
+.innertube2 {
+	MARGIN: 5px
+}
+.innertube3 {
+	MARGIN: 0px
+}
+ HTML BODY {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+ HTML #maincontent {
+	WIDTH: 100%; HEIGHT: 100%
+}
+BODY {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-WEIGHT: normal; FONT-SIZE: 100%; BACKGROUND: none transparent scroll repeat 0% 0%; PADDING-BOTTOM: 0px; MARGIN: 0px; OVERFLOW: auto; COLOR: #000000; PADDING-TOP: 0px; FONT-STYLE: normal; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; HEIGHT: 100%; MAX-HEIGHT: 100%
+}
+A:link {
+	BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #0000ff; TEXT-DECORATION: none
+}
+A:active {
+	BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #0000ff; TEXT-DECORATION: none
+}
+A:visited {
+	BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #339999; TEXT-DECORATION: none
+}
+A:hover {
+	BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #ff0000; TEXT-DECORATION: none
+}
+A.footer:link {
+	BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #6666ff; TEXT-DECORATION: none
+}
+A.footer:active {
+	BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #6666ff; TEXT-DECORATION: none
+}
+A.footer:visited {
+	BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #66dddd; TEXT-DECORATION: none
+}
+A.footer:hover {
+	BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #ff3333; TEXT-DECORATION: none
+}
+H1 {
+	FONT-WEIGHT: bold; FONT-SIZE: 160%; COLOR: #000066; FONT-STYLE: normal; FONT-FAMILY: sans-serif, Helvetica, Arial; TEXT-ALIGN: center
+}
+H2 {
+	FONT-WEIGHT: bold; FONT-SIZE: 140%; COLOR: #000066; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-ALIGN: center
+}
+H3 {
+	FONT-WEIGHT: bold; FONT-SIZE: 120%; COLOR: #000066; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+H4 {
+	FONT-WEIGHT: bold; FONT-SIZE: 110%; COLOR: #000066; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+
+SPAN.headlight {
+	FONT-WEIGHT: bold; FONT-SIZE: 120%; COLOR: #ffffff; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-ALIGN: center
+}
+SPAN.emphasize {
+	FONT-WEIGHT: bold; FONT-SIZE: 120%; COLOR: #000099; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+SPAN.softemphasize {
+	FONT-WEIGHT: normal; FONT-SIZE: 110%; COLOR: #000000; FONT-STYLE: normal;
+}
+IMG.general {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; MARGIN: auto; VERTICAL-ALIGN: middle; BORDER-RIGHT-WIDTH: 0px
+}
+IMG.banner {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; MARGIN: 0px; VERTICAL-ALIGN: top; BORDER-RIGHT-WIDTH: 0px
+}
+TABLE.normal-style {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; MARGIN: 0px; WIDTH: 100%; BORDER-COLLAPSE: collapse; BORDER-RIGHT-WIDTH: 0px
+}
+TABLE.border-style {
+	BORDER-RIGHT: #0099cc 1px solid; BORDER-TOP: #0099cc 1px solid; MARGIN: auto; BORDER-LEFT: #0099cc 1px solid; WIDTH: 100%; BORDER-BOTTOM: #0099cc 1px solid; BORDER-COLLAPSE: collapse
+}
+TABLE.border-style2 {
+	BORDER-RIGHT: #0099cc 1px solid; BORDER-TOP: #0099cc 1px solid; MARGIN: auto; BORDER-LEFT: #0099cc 1px solid; WIDTH: 80%; BORDER-BOTTOM: #0099cc 1px solid; BORDER-COLLAPSE: collapse
+}
+TD.head {
+	BORDER-RIGHT: #00ccff 1px solid; BORDER-TOP: #00ccff 1px solid; BACKGROUND: #0099cc; VERTICAL-ALIGN: middle; BORDER-LEFT: #00ccff 1px solid; BORDER-BOTTOM: #00ccff 1px solid; TEXT-ALIGN: center
+}
+
+TD.border-style {
+	BORDER-RIGHT: #00ccff 1px solid; BORDER-TOP: #00ccff 1px solid; VERTICAL-ALIGN: middle; BORDER-LEFT: #00ccff 1px solid; BORDER-BOTTOM: #00ccff 1px solid
+}
+TD.background-style {
+	BORDER-RIGHT: #00ccff 1px solid; PADDING-RIGHT: 10px; BORDER-TOP: #00ccff 1px solid; PADDING-LEFT: 10px; BACKGROUND: #eeffff; PADDING-BOTTOM: 10px; VERTICAL-ALIGN: middle; BORDER-LEFT: #00ccff 1px solid; PADDING-TOP: 10px; BORDER-BOTTOM: #00ccff 1px solid
+}
+TD.normal-style {
+	MARGIN: 0px; VERTICAL-ALIGN: top
+}
+
+TR.border-style {
+	BORDER-RIGHT: #00ccff 1px solid; BORDER-TOP: #00ccff 1px solid; BORDER-LEFT: #00ccff 1px solid; BORDER-BOTTOM: #00ccff 1px solid
+}
+TR.background-style {
+	BORDER-RIGHT: #00ccff 1px solid; BORDER-TOP: #00ccff 1px solid; BACKGROUND: #f0f0ff; BORDER-LEFT: #00ccff 1px solid; BORDER-BOTTOM: #00ccff 1px solid
+}
+TR.background-style2 {
+	BORDER-RIGHT: #00ccff 1px solid; BORDER-TOP: #00ccff 1px solid; BACKGROUND: #eeffff; BORDER-LEFT: #00ccff 1px solid; BORDER-BOTTOM: #00ccff 1px solid
+}
+TR.background-style TD {
+	PADDING-LEFT: 10px
+}
+TR.background-style2 TD {
+	PADDING-LEFT: 10px
+}
+TR.normal-style {
+	MARGIN: 0px; VERTICAL-ALIGN: top
+}
+TR.vtop {
+	VERTICAL-ALIGN: top
+}
+TR.vbottom {
+	VERTICAL-ALIGN: bottom
+}
+li.menu{
+	background : #0099D0;
+	margin-top: 1px;
+    padding: 1px;
+    width : 200px;
+    height :30px;
+    list-style-type: none;
+    text-align: center;
+    vertical-align: middle;
+}
+li.menu:hover{
+	background : #0B66A6;
+}
+.div-text{
+	color: #FFFFFF;
+	text-align: center;
+	line-height: 30px;
+	font-size: 70%;
+	font-family: Arial;
+}
+
+A.flag:hover{color:yellow;}
+
