@@ -153,3 +153,10 @@ li.menu:hover{
 
 A.flag:hover{color:yellow;}
 
+#program-table td {
+	padding: 0.25em;
+}
+
+.time-col {
+	width: 7%;
+}
