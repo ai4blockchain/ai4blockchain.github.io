@@ -158,5 +158,29 @@ A.flag:hover{color:yellow;}
 }
 
 .time-col {
-	width: 7%;
+	width: 8%;
+}
+
+#program-table tr.header {
+	background-color: #B2BABB;
+}
+
+#program-table tr.break {
+	background-color: #eee;
+}
+
+#program-table tr.chairs {
+	background-color: #A3E4D7;
+}
+
+#program-table tr.invited {
+	background-color: #F6DDCC;
+}
+
+#program-table tr.open {
+	background-color: #ddd;
+}
+
+#program-table tr.paper {
+	background-color: #AED6F1;
 }
